@@ -1,6 +1,7 @@
 # Retail Company database
 
 **Brief Description**
+
 This database is for a fictitious retail company that procures components from vendors to manufacture products. The company encompasses various departments, marketing sites, and suppliers of parts in its operations.
 
 **Business Rules**
